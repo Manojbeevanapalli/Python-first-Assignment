@@ -1,1 +1,1 @@
-# Activity 3 Python file
+# Activity 3
